@@ -1,3 +1,8 @@
+**This repository is deprecated. Development has moved here:**
+
+https://github.com/wasm3/wasm3
+
+
 # M3/Wasm
 
 This is a work-in-progress WebAssembly interpreter written in C using a novel, high performance interpreter topology. The interpreter strategy (named M3) was developed prior to this particular Wasm project and is described some below.
